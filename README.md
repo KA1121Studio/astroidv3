@@ -38,3 +38,11 @@ You can close it at any time by pressing <kbd>ctrl</kbd> + <kbd>c</kbd>
 Join the discord server!
 
 [![Join us on Discord](https://invidget.switchblade.xyz/9sUDHyGQfC?theme=dark)](https://discord.gg/9sUDHyGQfC)
+
+| 項目           | 設定例           |
+| ------------- | --------------- |
+| Runtime       | Node            |
+| Build Command | `npm install`   |
+| Start Command | `npm start`     |
+| Branch        | main            |
+
